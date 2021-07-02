@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/tanch/Desktop/CheeLam/Machine Learning/Manim/example/media/videos/animation/1080p60/partial_movie_files/SomeAnimations/450974505_706064852_3689423530.mp4'
+file 'file:C:/Users/tanch/Desktop/CheeLam/Machine Learning/Manim/example/media/videos/animation/1080p60/partial_movie_files/SomeAnimations/3968072068_1221087407_3689423530.mp4'
+file 'file:C:/Users/tanch/Desktop/CheeLam/Machine Learning/Manim/example/media/videos/animation/1080p60/partial_movie_files/SomeAnimations/3968072068_264773354_3689423530.mp4'
+file 'file:C:/Users/tanch/Desktop/CheeLam/Machine Learning/Manim/example/media/videos/animation/1080p60/partial_movie_files/SomeAnimations/3968072068_3187242488_2135977735.mp4'

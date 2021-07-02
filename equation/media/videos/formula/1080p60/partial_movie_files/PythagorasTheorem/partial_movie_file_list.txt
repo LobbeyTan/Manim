@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/tanch/Desktop/CheeLam/Machine Learning/Manim/equation/media/videos/formula/1080p60/partial_movie_files/PythagorasTheorem/450974505_509190600_1218978557.mp4'
+file 'file:C:/Users/tanch/Desktop/CheeLam/Machine Learning/Manim/equation/media/videos/formula/1080p60/partial_movie_files/PythagorasTheorem/3968072068_2325210810_4057060074.mp4'
+file 'file:C:/Users/tanch/Desktop/CheeLam/Machine Learning/Manim/equation/media/videos/formula/1080p60/partial_movie_files/PythagorasTheorem/3968072068_3366232159_3100347099.mp4'
+file 'file:C:/Users/tanch/Desktop/CheeLam/Machine Learning/Manim/equation/media/videos/formula/1080p60/partial_movie_files/PythagorasTheorem/3968072068_427481787_2420369673.mp4'
+file 'file:C:/Users/tanch/Desktop/CheeLam/Machine Learning/Manim/equation/media/videos/formula/1080p60/partial_movie_files/PythagorasTheorem/3968072068_2478148380_3499407502.mp4'
+file 'file:C:/Users/tanch/Desktop/CheeLam/Machine Learning/Manim/equation/media/videos/formula/1080p60/partial_movie_files/PythagorasTheorem/3968072068_3366232159_2981174291.mp4'
